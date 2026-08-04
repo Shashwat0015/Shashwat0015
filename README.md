@@ -56,7 +56,7 @@ alt="developer"/>
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/shashwat-sinha17">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;
