@@ -60,10 +60,6 @@ alt="developer"/>
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shashwat-sinha17">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/3239_Shashwat_23_F/">
 <img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
 </a>
