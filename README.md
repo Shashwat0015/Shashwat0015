@@ -1,0 +1,36 @@
+# Hi 👋 I'm Shashwat Sinha
+
+🚀 Backend Developer  
+💻 Node.js • Express • MongoDB  
+🔐 Building Secure APIs & Authentication Systems  
+📚 Continuously learning  
+
+---
+
+## 🛠️ Tech Stack
+- JavaScript  
+- Node.js  
+- Express.js  
+- MongoDB  
+- REST APIs  
+- JWT Authentication  
+
+---
+
+## 📌 Projects
+
+🔐 Secure Auth API  
+https://github.com/Shashwat0015/Secure-Auth-API  
+
+🚗 Ride Booking Backend  
+https://github.com/Shashwat0015  
+
+---
+
+## 🔗 Connect with Me
+
+LinkedIn: https://linkedin.com/in/shashwat-sinha  
+
+---
+
+⭐ Keep Learning | Keep Building
