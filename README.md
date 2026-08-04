@@ -27,7 +27,7 @@ https://github.com/Shashwat0015/Secure-Auth-API
 ## 🔗 Connect with Me
 
 - 📧 Email: shashwatsinha0015@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/shashwat-sinha 
+- 💼 LinkedIn: https://linkedin.com/in/shashwat-sinha17 
 
 ---
 
