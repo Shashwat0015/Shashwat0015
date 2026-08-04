@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shashwat</h1>
+<h1 align="center">Hi 👋, I'm Shashwat Sinha</h1>
 
 <h3 align="center">
-Backend Developer | BCA Graduate | Node.js Developer
+BCA Graduate | Backend Developer | 
 </h3>
 
 
