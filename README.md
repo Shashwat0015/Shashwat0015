@@ -61,7 +61,7 @@ alt="developer"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/3239_Shashwat_23_F/">
-<img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="55" style="filter: invert(1);"/>
 </a>
 </p>
 <br>
