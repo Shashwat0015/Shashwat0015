@@ -67,10 +67,4 @@ alt="developer"/>
 <br>
 <p align="center">
   🌱 Keep Learning | Keep Growing 
-  <img src="<br>
-
-<p align="center">
-  🌱 Keep Learning | Keep Growing 
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="45"/>
-</p>" width="45"/>
 </p>
