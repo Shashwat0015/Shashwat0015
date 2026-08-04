@@ -4,39 +4,41 @@
 Backend Developer | BCA Graduate | Node.js Developer
 </h3>
 
+<p align="center">
+<a href="https://github.com/Shashwat0015">
+<img src="https://img.shields.io/github/followers/Shashwat0015?label=Followers&style=flat&logo=github">
+</a>
+</p>
 
-<img align="right" width="350" 
+
+<img align="right" width="300" 
 src="https://raw.githubusercontent.com/Shashwat0015/Shashwat0015/main/assets/coding.gif"
 alt="coding"/>
 
 
-- 🔭 Currently working on **Backend Development & Secure APIs**
+## 👨‍💻 About Me
 
-- 🌱 Learning **Advanced Backend Concepts, REST APIs & Authentication**
-
-- 💻 Building **Secure and Scalable APIs**
-
-- 😊 Keep Smiling | Keep Learning | Keep Growing
+<img align="right" width="120"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+alt="developer"/>
 
 
-<br>
+- 💻 Backend Developer focused on building **Secure & Scalable APIs**
 
+- 🚀 Experienced with **Node.js, Express.js, MongoDB and REST APIs**
 
-## 👀 Profile Views
+- 🔐 Interested in **Authentication, Backend Architecture & API Security**
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Shashwat0015&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+- 🎓 BCA Graduate from India
 
-
-<br>
+<br clear="right"/>
 
 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,postman,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,postman,cpp,c,sql" />
 
 </p>
 
@@ -49,19 +51,25 @@ alt="coding"/>
 <p align="left">
 
 <a href="mailto:shashwatsinha0015@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://github.com/Shashwat0015">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="35"/>
 </a>
 
 </p>
+
+<br>
+
+<h3 align="center">
+😊 Keep Smiling | Keep Learning | Keep Growing
+</h3>
