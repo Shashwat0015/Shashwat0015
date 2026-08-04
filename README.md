@@ -22,14 +22,12 @@
 🔐 Secure Auth API  
 https://github.com/Shashwat0015/Secure-Auth-API  
 
-🚗 Ride Booking Backend  
-https://github.com/Shashwat0015  
-
 ---
 
 ## 🔗 Connect with Me
 
-LinkedIn: https://linkedin.com/in/shashwat-sinha  
+- 📧 Email: shashwatsinha0015@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/shashwat-sinha 
 
 ---
 
