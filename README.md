@@ -64,9 +64,13 @@ alt="developer"/>
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 </p>
-
 <br>
+<p align="center">
+  🌱 Keep Learning | Keep Growing 
+  <img src="<br>
 
-<h3 align="center">
-😊 Keep Smiling | Keep Learning | Keep Growing
-</h3>
+<p align="center">
+  🌱 Keep Learning | Keep Growing 
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="45"/>
+</p>" width="45"/>
+</p>
