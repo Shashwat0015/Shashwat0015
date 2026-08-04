@@ -50,34 +50,22 @@ alt="developer"/>
 
 ## 🤝 Connect With Me
 
-
 <p align="left">
 
 <a href="mailto:shashwatsinha0015@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
-
-
 &nbsp;&nbsp;&nbsp;
-
-
 <a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
-
-
 &nbsp;&nbsp;&nbsp;
-
-
 <a href="https://github.com/Shashwat0015">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
-
 </p>
 
-
 <br>
-
 
 <h3 align="center">
 😊 Keep Smiling | Keep Learning | Keep Growing
